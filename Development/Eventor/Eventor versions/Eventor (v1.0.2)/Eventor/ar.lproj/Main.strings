@@ -1,0 +1,699 @@
+
+/* Class = "UITextField"; placeholder = "Enter Password..."; ObjectID = "00Q-YO-Zi4"; */
+"00Q-YO-Zi4.placeholder" = "Enter Password...";
+
+/* Class = "UITextField"; placeholder = "54xxxxxxx"; ObjectID = "0Al-Rl-Pub"; */
+"0Al-Rl-Pub.placeholder" = "54xxxxxxx";
+
+/* Class = "UILabel"; text = "Phone number:"; ObjectID = "0V4-HH-DA7"; */
+"0V4-HH-DA7.text" = "Phone number:";
+
+/* Class = "UILabel"; text = "From-to"; ObjectID = "11T-cK-u3R"; */
+"11T-cK-u3R.text" = "From-to";
+
+/* Class = "UILabel"; text = "1000"; ObjectID = "130-Cw-iMP"; */
+"130-Cw-iMP.text" = "1000";
+
+/* Class = "UILabel"; text = "Users"; ObjectID = "1Ig-Xa-Px9"; */
+"1Ig-Xa-Px9.text" = "Users";
+
+/* Class = "UIButton"; normalTitle = "Rate vollunter"; ObjectID = "1jb-OJ-eSB"; */
+"1jb-OJ-eSB.normalTitle" = "Rate vollunter";
+
+/* Class = "UILabel"; text = "dateLbl"; ObjectID = "26d-aA-1gx"; */
+"26d-aA-1gx.text" = "dateLbl";
+
+/* Class = "UILabel"; text = "Event Title"; ObjectID = "2Mo-2J-D7i"; */
+"2Mo-2J-D7i.text" = "Event Title";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "33X-AZ-TVM"; */
+"33X-AZ-TVM.title" = "Home";
+
+/* Class = "UITextField"; placeholder = "Saudi arabia,Riyadh , 14th st..."; ObjectID = "347-am-C5y"; */
+"347-am-C5y.placeholder" = "Saudi arabia,Riyadh , 14th st...";
+
+/* Class = "UILabel"; text = "User name:"; ObjectID = "3Cp-xV-h1T"; */
+"3Cp-xV-h1T.text" = "User name:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3gB-TQ-ibO"; */
+"3gB-TQ-ibO.text" = "Label";
+
+/* Class = "UILabel"; text = "000"; ObjectID = "44a-pq-JN6"; */
+"44a-pq-JN6.text" = "000";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "4HV-Td-Td8"; */
+"4HV-Td-Td8.text" = "Email:";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "4JQ-Pm-pZQ"; */
+"4JQ-Pm-pZQ.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "DOB: ---"; ObjectID = "4YJ-tz-cPb"; */
+"4YJ-tz-cPb.text" = "DOB: ---";
+
+/* Class = "UIViewController"; title = "Sign in"; ObjectID = "4hr-Me-cUt"; */
+"4hr-Me-cUt.title" = "Sign in";
+
+/* Class = "UIButton"; normalTitle = "View Event"; ObjectID = "4ub-jK-sna"; */
+"4ub-jK-sna.normalTitle" = "View Event";
+
+/* Class = "UITextField"; placeholder = "Enter confirm new password..."; ObjectID = "4vq-ib-ePi"; */
+"4vq-ib-ePi.placeholder" = "Enter confirm new password...";
+
+/* Class = "UITextField"; placeholder = "Confirm Password..."; ObjectID = "4wg-7q-3fx"; */
+"4wg-7q-3fx.placeholder" = "Confirm Password...";
+
+/* Class = "UIButton"; normalTitle = "Clear all"; ObjectID = "4yp-C3-9RP"; */
+"4yp-C3-9RP.normalTitle" = "Clear all";
+
+/* Class = "UILabel"; text = "Event"; ObjectID = "5PO-PV-wea"; */
+"5PO-PV-wea.text" = "Event";
+
+/* Class = "UIButton"; normalTitle = "Choose location"; ObjectID = "5Y0-Wt-vRd"; */
+"5Y0-Wt-vRd.normalTitle" = "Choose location";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "6J7-hE-9fU"; */
+"6J7-hE-9fU.normalTitle" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Sports"; ObjectID = "6ak-HC-acc"; */
+"6ak-HC-acc.normalTitle" = "Sports";
+
+/* Class = "UIButton"; normalTitle = "Subscribe"; ObjectID = "6fM-iI-KAk"; */
+"6fM-iI-KAk.normalTitle" = "Subscribe";
+
+/* Class = "UINavigationItem"; title = "events"; ObjectID = "76K-Zy-A48"; */
+"76K-Zy-A48.title" = "events";
+
+/* Class = "UIButton"; normalTitle = "Show users"; ObjectID = "78P-kz-1hH"; */
+"78P-kz-1hH.normalTitle" = "Show users";
+
+/* Class = "UIButton"; normalTitle = "Edit Event"; ObjectID = "7HI-cP-pR7"; */
+"7HI-cP-pR7.normalTitle" = "Edit Event";
+
+/* Class = "UILabel"; text = "orgnization name:"; ObjectID = "8ge-cR-8wy"; */
+"8ge-cR-8wy.text" = "orgnization name:";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "8sB-yU-2nx"; */
+"8sB-yU-2nx.title" = "Map";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Ds-yT-ZqL"; */
+"9Ds-yT-ZqL.text" = "Label";
+
+/* Class = "UILabel"; text = "descriotion"; ObjectID = "9FT-Gn-Hdn"; */
+"9FT-Gn-Hdn.text" = "descriotion";
+
+/* Class = "UILabel"; text = "Families"; ObjectID = "9GU-a9-BMV"; */
+"9GU-a9-BMV.text" = "Families";
+
+/* Class = "UINavigationItem"; title = "Sign up"; ObjectID = "9Re-jq-oyc"; */
+"9Re-jq-oyc.title" = "Sign up";
+
+/* Class = "UIButton"; normalTitle = "Other"; ObjectID = "9bQ-fk-Nct"; */
+"9bQ-fk-Nct.normalTitle" = "Other";
+
+/* Class = "UILabel"; text = "name: ---"; ObjectID = "9kY-g1-z9g"; */
+"9kY-g1-z9g.text" = "name: ---";
+
+/* Class = "UILabel"; text = "Love Evnetor Tile"; ObjectID = "9r9-T3-aeg"; */
+"9r9-T3-aeg.text" = "Love Evnetor Tile";
+
+/* Class = "UILabel"; text = "Subscribers "; ObjectID = "9xe-Rw-Z6E"; */
+"9xe-Rw-Z6E.text" = "Subscribers ";
+
+/* Class = "UIButton"; normalTitle = "Change password"; ObjectID = "ACJ-qK-vZ1"; */
+"ACJ-qK-vZ1.normalTitle" = "Change password";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "Aex-Vo-FCY"; */
+"Aex-Vo-FCY.title" = "Profile";
+
+/* Class = "UIViewController"; title = "Welcome"; ObjectID = "An1-tp-hIg"; */
+"An1-tp-hIg.title" = "Welcome";
+
+/* Class = "UIButton"; normalTitle = "Food"; ObjectID = "AvR-mP-Hhb"; */
+"AvR-mP-Hhb.normalTitle" = "Food";
+
+/* Class = "UIButton"; normalTitle = "Send a request"; ObjectID = "Avj-wh-mPZ"; */
+"Avj-wh-mPZ.normalTitle" = "Send a request";
+
+/* Class = "UILabel"; text = "000"; ObjectID = "BfO-Sb-o5c"; */
+"BfO-Sb-o5c.text" = "000";
+
+/* Class = "UIButton"; normalTitle = "Events to sponsor"; ObjectID = "C5V-id-qon"; */
+"C5V-id-qon.normalTitle" = "Events to sponsor";
+
+/* Class = "UILabel"; text = "Families"; ObjectID = "C73-mR-LIr"; */
+"C73-mR-LIr.text" = "Families";
+
+/* Class = "UIViewController"; title = "ProfileVC"; ObjectID = "CRQ-9T-7uX"; */
+"CRQ-9T-7uX.title" = "ProfileVC";
+
+/* Class = "UITextView"; text = "Eventor is a graduation project made by 4 software engineering students which is an iOS application that allow an event manager to manage, publish, advertise the events and to look for a volunteers or a sponsor. “Eventor” will also help users to find, share events and filter them based on their location, or even also to request a sponsor if there's an idea for event, and being notified of new events been created that match their interests. it also allows the volunteer to ask for participation of an event"; ObjectID = "CWI-AQ-dA6"; */
+"CWI-AQ-dA6.text" = "Eventor is a graduation project made by 4 software engineering students which is an iOS application that allow an event manager to manage, publish, advertise the events and to look for a volunteers or a sponsor. “Eventor” will also help users to find, share events and filter them based on their location, or even also to request a sponsor if there's an idea for event, and being notified of new events been created that match their interests. it also allows the volunteer to ask for participation of an event";
+
+/* Class = "UILabel"; text = "   Event name"; ObjectID = "Cii-mI-WGe"; */
+"Cii-mI-WGe.text" = "   Event name";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "DCJ-P6-Fib"; */
+"DCJ-P6-Fib.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "example@example.com"; ObjectID = "DcW-Zj-1G1"; */
+"DcW-Zj-1G1.placeholder" = "example@example.com";
+
+/* Class = "UINavigationItem"; title = "Request Event Manager Acoount"; ObjectID = "Dz5-qf-1Bt"; */
+"Dz5-qf-1Bt.title" = "Request Event Manager Acoount";
+
+/* Class = "UILabel"; text = "Descripe your expereances:"; ObjectID = "ECe-Um-FUS"; */
+"ECe-Um-FUS.text" = "Descripe your expereances:";
+
+/* Class = "UIButton"; normalTitle = "Riyadh"; ObjectID = "EVQ-RR-dzL"; */
+"EVQ-RR-dzL.normalTitle" = "Riyadh";
+
+/* Class = "UIButton"; normalTitle = "Computer"; ObjectID = "Eg9-N1-V9B"; */
+"Eg9-N1-V9B.normalTitle" = "Computer";
+
+/* Class = "UIButton"; normalTitle = "Events to volenteer"; ObjectID = "F1t-D1-0XB"; */
+"F1t-D1-0XB.normalTitle" = "Events to volenteer";
+
+/* Class = "UILabel"; text = "eventor.manage@gmail.com"; ObjectID = "FCU-3U-eF0"; */
+"FCU-3U-eF0.text" = "eventor.manage@gmail.com";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "FFO-aF-0ts"; */
+"FFO-aF-0ts.normalTitle" = "Submit";
+
+/* Class = "UITabBarItem"; title = "Notification"; ObjectID = "FJc-0v-5pP"; */
+"FJc-0v-5pP.title" = "Notification";
+
+/* Class = "UITextField"; placeholder = "org name..."; ObjectID = "FOa-oa-M4d"; */
+"FOa-oa-M4d.placeholder" = "org name...";
+
+/* Class = "UIButton"; normalTitle = "Art"; ObjectID = "Ft6-nH-eTH"; */
+"Ft6-nH-eTH.normalTitle" = "Art";
+
+/* Class = "UIButton"; normalTitle = "About us"; ObjectID = "Fzc-eu-zlY"; */
+"Fzc-eu-zlY.normalTitle" = "About us";
+
+/* Class = "UITextField"; placeholder = "org address..."; ObjectID = "G4Z-F3-2To"; */
+"G4Z-F3-2To.placeholder" = "org address...";
+
+/* Class = "UIViewController"; title = "AnyUserInfoVC"; ObjectID = "GLb-Fi-Wcf"; */
+"GLb-Fi-Wcf.title" = "AnyUserInfoVC";
+
+/* Class = "UILabel"; text = "Phone number:"; ObjectID = "GfA-gZ-HOB"; */
+"GfA-gZ-HOB.text" = "Phone number:";
+
+/* Class = "UINavigationItem"; title = "User info"; ObjectID = "Gfn-ei-Fo7"; */
+"Gfn-ei-Fo7.title" = "User info";
+
+/* Class = "UILabel"; text = "name: ---"; ObjectID = "GkJ-9y-xyg"; */
+"GkJ-9y-xyg.text" = "name: ---";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "Gl9-oy-43Y"; */
+"Gl9-oy-43Y.text" = "or";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "HJF-jJ-A3s"; */
+"HJF-jJ-A3s.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "You can contact with us using email below:"; ObjectID = "HP1-N8-tfi"; */
+"HP1-N8-tfi.text" = "You can contact with us using email below:";
+
+/* Class = "UIButton"; normalTitle = "EMs Req"; ObjectID = "IP0-hA-qdc"; */
+"IP0-hA-qdc.normalTitle" = "EMs Req";
+
+/* Class = "UIButton"; normalTitle = "Science"; ObjectID = "IZl-rw-fvm"; */
+"IZl-rw-fvm.normalTitle" = "Science";
+
+/* Class = "UIButton"; normalTitle = "Riyadh"; ObjectID = "IcG-4d-z00"; */
+"IcG-4d-z00.normalTitle" = "Riyadh";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "Ixe-5M-KZo"; */
+"Ixe-5M-KZo.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "Jk9-16-a1i"; */
+"Jk9-16-a1i.text" = "Location:";
+
+/* Class = "UIButton"; normalTitle = "Start Date"; ObjectID = "Jyv-44-Fzp"; */
+"Jyv-44-Fzp.normalTitle" = "Start Date";
+
+/* Class = "UILabel"; text = "NU"; ObjectID = "Kim-0H-kQu"; */
+"Kim-0H-kQu.text" = "NU";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Knb-Lz-v6f"; */
+"Knb-Lz-v6f.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "Enter User Name:"; ObjectID = "Li5-d5-hl0"; */
+"Li5-d5-hl0.placeholder" = "Enter User Name:";
+
+/* Class = "UIButton"; normalTitle = "Books"; ObjectID = "MS4-If-9iU"; */
+"MS4-If-9iU.normalTitle" = "Books";
+
+/* Class = "UISegmentedControl"; OL8-Kc-Q1w.segmentTitles[0] = "Male"; ObjectID = "OL8-Kc-Q1w"; */
+"OL8-Kc-Q1w.segmentTitles[0]" = "Male";
+
+/* Class = "UISegmentedControl"; OL8-Kc-Q1w.segmentTitles[1] = "Female"; ObjectID = "OL8-Kc-Q1w"; */
+"OL8-Kc-Q1w.segmentTitles[1]" = "Female";
+
+/* Class = "UISegmentedControl"; OL8-Kc-Q1w.segmentTitles[2] = "Families"; ObjectID = "OL8-Kc-Q1w"; */
+"OL8-Kc-Q1w.segmentTitles[2]" = "Families";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "OLD-am-6xV"; */
+"OLD-am-6xV.text" = "Password:";
+
+/* Class = "UIButton"; normalTitle = "Computer"; ObjectID = "OYN-Bu-MJy"; */
+"OYN-Bu-MJy.normalTitle" = "Computer";
+
+/* Class = "UILabel"; text = "Nothing found!!"; ObjectID = "Ouc-Hu-5Jb"; */
+"Ouc-Hu-5Jb.text" = "Nothing found!!";
+
+/* Class = "UIButton"; normalTitle = "Joined Events"; ObjectID = "P0N-cJ-Fy8"; */
+"P0N-cJ-Fy8.normalTitle" = "Joined Events";
+
+/* Class = "UIButton"; normalTitle = "Already have an account?"; ObjectID = "PKP-93-b5p"; */
+"PKP-93-b5p.normalTitle" = "Already have an account?";
+
+/* Class = "UILabel"; text = "Expereance:"; ObjectID = "QO9-Ef-dTR"; */
+"QO9-Ef-dTR.text" = "Expereance:";
+
+/* Class = "UILabel"; text = "Sign in"; ObjectID = "Qrg-XD-JLS"; */
+"Qrg-XD-JLS.text" = "Sign in";
+
+/* Class = "UIButton"; normalTitle = "Subscribed Events"; ObjectID = "R5g-08-Igk"; */
+"R5g-08-Igk.normalTitle" = "Subscribed Events";
+
+/* Class = "UIButton"; normalTitle = "View on map"; ObjectID = "R6T-6L-eKs"; */
+"R6T-6L-eKs.normalTitle" = "View on map";
+
+/* Class = "UILabel"; text = "1000"; ObjectID = "R8E-wC-SXE"; */
+"R8E-wC-SXE.text" = "1000";
+
+/* Class = "UILabel"; text = "nameLbbl"; ObjectID = "ROQ-Zj-pIB"; */
+"ROQ-Zj-pIB.text" = "nameLbbl";
+
+/* Class = "UIButton"; normalTitle = "Comedy"; ObjectID = "RSb-kL-J6r"; */
+"RSb-kL-J6r.normalTitle" = "Comedy";
+
+/* Class = "UILabel"; text = "From-to"; ObjectID = "RYV-Uz-FLr"; */
+"RYV-Uz-FLr.text" = "From-to";
+
+/* Class = "UILabel"; text = "Volunteer name"; ObjectID = "Rd7-44-Equ"; */
+"Rd7-44-Equ.text" = "Volunteer name";
+
+/* Class = "UINavigationItem"; title = "Sign in"; ObjectID = "Rnr-Hq-v0y"; */
+"Rnr-Hq-v0y.title" = "Sign in";
+
+/* Class = "UILabel"; text = "Subscribers "; ObjectID = "RrH-Yn-uAu"; */
+"RrH-Yn-uAu.text" = "Subscribers ";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "SSU-cB-VuH"; */
+"SSU-cB-VuH.text" = "Description:";
+
+/* Class = "UIButton"; normalTitle = "Add intrest +"; ObjectID = "SqS-rM-PyZ"; */
+"SqS-rM-PyZ.normalTitle" = "Add intrest +";
+
+/* Class = "UITextField"; placeholder = "enter the profile name..."; ObjectID = "T3T-gb-gUJ"; */
+"T3T-gb-gUJ.placeholder" = "enter the profile name...";
+
+/* Class = "UIViewController"; title = "Sign up"; ObjectID = "TBS-3w-3Xl"; */
+"TBS-3w-3Xl.title" = "Sign up";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "TJN-HZ-uYS"; */
+"TJN-HZ-uYS.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "TQD-FA-uV6"; */
+"TQD-FA-uV6.normalTitle" = "Sign in";
+
+/* Class = "UIButton"; normalTitle = "Sports"; ObjectID = "Tdz-Ji-57x"; */
+"Tdz-Ji-57x.normalTitle" = "Sports";
+
+/* Class = "UITextField"; placeholder = "Enter Organization Name"; ObjectID = "Tpd-4k-g0e"; */
+"Tpd-4k-g0e.placeholder" = "Enter Organization Name";
+
+/* Class = "UILabel"; text = "City:"; ObjectID = "Ttc-fz-Q9r"; */
+"Ttc-fz-Q9r.text" = "City:";
+
+/* Class = "UILabel"; text = "EM"; ObjectID = "U0G-jR-M67"; */
+"U0G-jR-M67.text" = "EM";
+
+/* Class = "UIButton"; normalTitle = "Comedy"; ObjectID = "UBr-QX-BqL"; */
+"UBr-QX-BqL.normalTitle" = "Comedy";
+
+/* Class = "UISegmentedControl"; UoC-fb-ic8.segmentTitles[0] = "Male"; ObjectID = "UoC-fb-ic8"; */
+"UoC-fb-ic8.segmentTitles[0]" = "Male";
+
+/* Class = "UISegmentedControl"; UoC-fb-ic8.segmentTitles[1] = "Female"; ObjectID = "UoC-fb-ic8"; */
+"UoC-fb-ic8.segmentTitles[1]" = "Female";
+
+/* Class = "UISegmentedControl"; UoC-fb-ic8.segmentTitles[2] = "Families"; ObjectID = "UoC-fb-ic8"; */
+"UoC-fb-ic8.segmentTitles[2]" = "Families";
+
+/* Class = "UISegmentedControl"; Uwc-gR-Nhs.segmentTitles[0] = "Requests"; ObjectID = "Uwc-gR-Nhs"; */
+"Uwc-gR-Nhs.segmentTitles[0]" = "Requests";
+
+/* Class = "UISegmentedControl"; Uwc-gR-Nhs.segmentTitles[1] = "Volunteers"; ObjectID = "Uwc-gR-Nhs"; */
+"Uwc-gR-Nhs.segmentTitles[1]" = "Volunteers";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "VV0-LC-WLq"; */
+"VV0-LC-WLq.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "VjO-ZI-0v2"; */
+"VjO-ZI-0v2.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "Date of birth:"; ObjectID = "W5l-3z-3fC"; */
+"W5l-3z-3fC.text" = "Date of birth:";
+
+/* Class = "UIButton"; normalTitle = "Art"; ObjectID = "Wdg-od-xRb"; */
+"Wdg-od-xRb.normalTitle" = "Art";
+
+/* Class = "UILabel"; text = "Name: ..."; ObjectID = "Wic-ja-YwT"; */
+"Wic-ja-YwT.text" = "Name: ...";
+
+/* Class = "UITextField"; placeholder = "Enter Password..."; ObjectID = "X0C-Si-5hu"; */
+"X0C-Si-5hu.placeholder" = "Enter Password...";
+
+/* Class = "UIViewController"; title = "Contact us"; ObjectID = "X61-Cb-fWv"; */
+"X61-Cb-fWv.title" = "Contact us";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "XEL-MC-eGJ"; */
+"XEL-MC-eGJ.placeholder" = "Search";
+
+/* Class = "UISearchBar"; XEL-MC-eGJ.scopeButtonTitles[0] = "Title"; ObjectID = "XEL-MC-eGJ"; */
+"XEL-MC-eGJ.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; XEL-MC-eGJ.scopeButtonTitles[1] = "Title"; ObjectID = "XEL-MC-eGJ"; */
+"XEL-MC-eGJ.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UILabel"; text = "need Sponsor"; ObjectID = "XTj-R3-HAT"; */
+"XTj-R3-HAT.text" = "need Sponsor";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "XvA-Io-80c"; */
+"XvA-Io-80c.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Enter new password..."; ObjectID = "YCz-Cl-Wuv"; */
+"YCz-Cl-Wuv.placeholder" = "Enter new password...";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "YUE-zh-w42"; */
+"YUE-zh-w42.text" = "Password:";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "YvZ-jt-IU3"; */
+"YvZ-jt-IU3.normalTitle" = "Sign in";
+
+/* Class = "UIButton"; normalTitle = "Show Events"; ObjectID = "ZiR-z0-L6n"; */
+"ZiR-z0-L6n.normalTitle" = "Show Events";
+
+/* Class = "UIButton"; normalTitle = "Edit  profile info"; ObjectID = "Zyq-1t-keG"; */
+"Zyq-1t-keG.normalTitle" = "Edit  profile info";
+
+/* Class = "UIViewController"; title = "Home"; ObjectID = "a3t-9F-8cj"; */
+"a3t-9F-8cj.title" = "Home";
+
+/* Class = "UILabel"; text = "Address:"; ObjectID = "a71-t3-ifb"; */
+"a71-t3-ifb.text" = "Address:";
+
+/* Class = "UIButton"; normalTitle = "Sponsor "; ObjectID = "a7s-0n-ZL7"; */
+"a7s-0n-ZL7.normalTitle" = "Sponsor ";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "aL6-wP-LBn"; */
+"aL6-wP-LBn.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Date And Time:"; ObjectID = "aMz-n2-VLI"; */
+"aMz-n2-VLI.text" = "Date And Time:";
+
+/* Class = "UIButton"; normalTitle = "reload"; ObjectID = "auf-So-Fcs"; */
+"auf-So-Fcs.normalTitle" = "reload";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "bGO-oe-gmK"; */
+"bGO-oe-gmK.text" = "or";
+
+/* Class = "UIButton"; normalTitle = "Remove all filters"; ObjectID = "bKT-fJ-FUF"; */
+"bKT-fJ-FUF.normalTitle" = "Remove all filters";
+
+/* Class = "UILabel"; text = "From-to"; ObjectID = "bTl-Wm-J26"; */
+"bTl-Wm-J26.text" = "From-to";
+
+/* Class = "UIButton"; normalTitle = "End Date"; ObjectID = "bsE-dc-cjv"; */
+"bsE-dc-cjv.normalTitle" = "End Date";
+
+/* Class = "UILabel"; text = "Events"; ObjectID = "c9e-WQ-cbJ"; */
+"c9e-WQ-cbJ.text" = "Events";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "cEW-p1-FhT"; */
+"cEW-p1-FhT.normalTitle" = "Reject";
+
+/* Class = "UIButton"; normalTitle = "View Volunteers"; ObjectID = "cEv-yS-pHq"; */
+"cEv-yS-pHq.normalTitle" = "View Volunteers";
+
+/* Class = "UITextField"; placeholder = "enter phone Number..."; ObjectID = "cW6-8F-luN"; */
+"cW6-8F-luN.placeholder" = "enter phone Number...";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "cwq-mJ-14O"; */
+"cwq-mJ-14O.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Not registered yet?"; ObjectID = "czX-XH-Qdy"; */
+"czX-XH-Qdy.normalTitle" = "Not registered yet?";
+
+/* Class = "UIViewController"; title = "Notification"; ObjectID = "dGx-2W-VI1"; */
+"dGx-2W-VI1.title" = "Notification";
+
+/* Class = "UILabel"; text = "Attendence type:"; ObjectID = "dNJ-E0-Vcf"; */
+"dNJ-E0-Vcf.text" = "Attendence type:";
+
+/* Class = "UIButton"; normalTitle = "save"; ObjectID = "djf-0v-dzs"; */
+"djf-0v-dzs.normalTitle" = "save";
+
+/* Class = "UILabel"; text = "Nothing found!!"; ObjectID = "e4g-cx-PLX"; */
+"e4g-cx-PLX.text" = "Nothing found!!";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "e9I-Gc-usV"; */
+"e9I-Gc-usV.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Other"; ObjectID = "e9w-Jq-OZy"; */
+"e9w-Jq-OZy.normalTitle" = "Other";
+
+/* Class = "UIBarButtonItem"; title = "More"; ObjectID = "eHF-fB-Kde"; */
+"eHF-fB-Kde.title" = "More";
+
+/* Class = "UIButton"; normalTitle = "Start Time"; ObjectID = "eHa-R2-Qfr"; */
+"eHa-R2-Qfr.normalTitle" = "Start Time";
+
+/* Class = "UIButton"; normalTitle = "Books"; ObjectID = "eLP-S9-Dpw"; */
+"eLP-S9-Dpw.normalTitle" = "Books";
+
+/* Class = "UITextField"; placeholder = "Enter Email..."; ObjectID = "eeg-fe-S9C"; */
+"eeg-fe-S9C.placeholder" = "Enter Email...";
+
+/* Class = "UIButton"; normalTitle = "Volunteer in"; ObjectID = "eph-XN-67U"; */
+"eph-XN-67U.normalTitle" = "Volunteer in";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "fCN-pv-rAU"; */
+"fCN-pv-rAU.text" = "Email:";
+
+/* Class = "UIButton"; normalTitle = "My Events"; ObjectID = "fcB-ng-tOx"; */
+"fcB-ng-tOx.normalTitle" = "My Events";
+
+/* Class = "UIButton"; normalTitle = "Save as password"; ObjectID = "gCs-Kf-X25"; */
+"gCs-Kf-X25.normalTitle" = "Save as password";
+
+/* Class = "UILabel"; text = "Phone Number:"; ObjectID = "hYV-Qi-oSv"; */
+"hYV-Qi-oSv.text" = "Phone Number:";
+
+/* Class = "UILabel"; text = "+966"; ObjectID = "hbm-Lc-Ut1"; */
+"hbm-Lc-Ut1.text" = "+966";
+
+/* Class = "UIButton"; normalTitle = "End Time"; ObjectID = "hgF-o2-8JW"; */
+"hgF-o2-8JW.normalTitle" = "End Time";
+
+/* Class = "UITextField"; placeholder = "example@example.com"; ObjectID = "iFD-CK-z7P"; */
+"iFD-CK-z7P.placeholder" = "example@example.com";
+
+/* Class = "UILabel"; text = "Loading the app ..."; ObjectID = "jCe-j7-tVK"; */
+"jCe-j7-tVK.text" = "Loading the app ...";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "ji6-Ug-R8b"; */
+"ji6-Ug-R8b.normalTitle" = "Accept";
+
+/* Class = "UIButton"; normalTitle = "Food"; ObjectID = "k0e-eR-z5I"; */
+"k0e-eR-z5I.normalTitle" = "Food";
+
+/* Class = "UIViewController"; title = "intrests"; ObjectID = "k9B-oN-WNI"; */
+"k9B-oN-WNI.title" = "intrests";
+
+/* Class = "UIButton"; normalTitle = "add interests"; ObjectID = "kCf-YZ-w6S"; */
+"kCf-YZ-w6S.normalTitle" = "add interests";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "kQk-aR-sC5"; */
+"kQk-aR-sC5.text" = "or";
+
+/* Class = "UIViewController"; title = "CreateEventVC"; ObjectID = "kSv-tS-uSZ"; */
+"kSv-tS-uSZ.title" = "CreateEventVC";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "kt7-F9-oeo"; */
+"kt7-F9-oeo.title" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Add experience"; ObjectID = "l0r-2j-Nad"; */
+"l0r-2j-Nad.normalTitle" = "Add experience";
+
+/* Class = "UINavigationItem"; title = "Notification"; ObjectID = "lKM-Cj-Q9N"; */
+"lKM-Cj-Q9N.title" = "Notification";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "lip-09-Iht"; */
+"lip-09-Iht.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mR0-0q-49D"; */
+"mR0-0q-49D.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Reload"; ObjectID = "mmv-ad-UBt"; */
+"mmv-ad-UBt.normalTitle" = "Reload";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "n1P-bf-ODu"; */
+"n1P-bf-ODu.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "+966"; ObjectID = "n8w-cj-gnB"; */
+"n8w-cj-gnB.text" = "+966";
+
+/* Class = "UIButton"; normalTitle = "Rate"; ObjectID = "nZ9-x1-494"; */
+"nZ9-x1-494.normalTitle" = "Rate";
+
+/* Class = "UILabel"; text = "   Event description"; ObjectID = "nky-2J-f5p"; */
+"nky-2J-f5p.text" = "   Event description";
+
+/* Class = "UINavigationItem"; title = "User info"; ObjectID = "nzl-NG-t8X"; */
+"nzl-NG-t8X.title" = "User info";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "o4v-15-A2I"; */
+"o4v-15-A2I.normalTitle" = "Apply";
+
+/* Class = "UIButton"; normalTitle = "Improve to event manager account"; ObjectID = "oHE-mg-Ddf"; */
+"oHE-mg-Ddf.normalTitle" = "Improve to event manager account";
+
+/* Class = "UILabel"; text = "descriotion"; ObjectID = "oIj-Pb-TfV"; */
+"oIj-Pb-TfV.text" = "descriotion";
+
+/* Class = "UILabel"; text = "Organization name:"; ObjectID = "oZH-H6-A9q"; */
+"oZH-H6-A9q.text" = "Organization name:";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "ocy-Gf-4Xc"; */
+"ocy-Gf-4Xc.title" = "Profile";
+
+/* Class = "UILabel"; text = "Event"; ObjectID = "pBa-cA-dJr"; */
+"pBa-cA-dJr.text" = "Event";
+
+/* Class = "UIButton"; normalTitle = "add intrest"; ObjectID = "qBp-ZJ-CMY"; */
+"qBp-ZJ-CMY.normalTitle" = "add intrest";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "qUN-Vo-qVF"; */
+"qUN-Vo-qVF.normalTitle" = "Done";
+
+/* Class = "UITextField"; placeholder = "Enter The Event Name..."; ObjectID = "qx8-nu-ZEL"; */
+"qx8-nu-ZEL.placeholder" = "Enter The Event Name...";
+
+/* Class = "UITextField"; placeholder = "Enter Password..."; ObjectID = "rUM-af-MEV"; */
+"rUM-af-MEV.placeholder" = "Enter Password...";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "rme-SY-8K8"; */
+"rme-SY-8K8.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "EM Upgard Req"; ObjectID = "shI-Kt-1YX"; */
+"shI-Kt-1YX.normalTitle" = "EM Upgard Req";
+
+/* Class = "UILabel"; text = "with Sponsor"; ObjectID = "swv-oR-hAi"; */
+"swv-oR-hAi.text" = "with Sponsor";
+
+/* Class = "UILabel"; text = "Explane why you want to be an (Event manager):"; ObjectID = "tdZ-Sl-GLz"; */
+"tdZ-Sl-GLz.text" = "Explane why you want to be an (Event manager):";
+
+/* Class = "UILabel"; text = "Thanks for your request, we will send you a confirmation e-mail as soon as we activate your account. "; ObjectID = "ti2-FR-cz9"; */
+"ti2-FR-cz9.text" = "Thanks for your request, we will send you a confirmation e-mail as soon as we activate your account. ";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "tpq-Sj-v1d"; */
+"tpq-Sj-v1d.normalTitle" = "Save";
+
+/* Class = "UIViewController"; title = "Map"; ObjectID = "trm-kP-VcH"; */
+"trm-kP-VcH.title" = "Map";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "u0Y-h1-o3n"; */
+"u0Y-h1-o3n.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u10-hV-lfC"; */
+"u10-hV-lfC.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Create Event"; ObjectID = "u1V-Ho-6qk"; */
+"u1V-Ho-6qk.normalTitle" = "Create Event";
+
+/* Class = "UIButton"; normalTitle = "Delete Event"; ObjectID = "uTa-BW-U8x"; */
+"uTa-BW-U8x.normalTitle" = "Delete Event";
+
+/* Class = "UIButton"; normalTitle = "Request sponsor "; ObjectID = "ugy-Et-ycK"; */
+"ugy-Et-ycK.normalTitle" = "Request sponsor ";
+
+/* Class = "UILabel"; text = "Admin Page"; ObjectID = "uyd-Z1-pu4"; */
+"uyd-Z1-pu4.text" = "Admin Page";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "vET-bc-WD0"; */
+"vET-bc-WD0.normalTitle" = "Sign up";
+
+/* Class = "UIViewController"; title = "RequestEM"; ObjectID = "vdq-0s-FVa"; */
+"vdq-0s-FVa.title" = "RequestEM";
+
+/* Class = "UIButton"; normalTitle = "Trace Location"; ObjectID = "vfx-Au-P1c"; */
+"vfx-Au-P1c.normalTitle" = "Trace Location";
+
+/* Class = "UILabel"; text = "Attendence type:"; ObjectID = "w1v-Bw-NX1"; */
+"w1v-Bw-NX1.text" = "Attendence type:";
+
+/* Class = "UILabel"; text = "Event"; ObjectID = "w2D-0G-LHa"; */
+"w2D-0G-LHa.text" = "Event";
+
+/* Class = "UILabel"; text = "Pick Interests"; ObjectID = "wNN-SZ-UWp"; */
+"wNN-SZ-UWp.text" = "Pick Interests";
+
+/* Class = "UILabel"; text = "Families"; ObjectID = "wkv-SP-R2V"; */
+"wkv-SP-R2V.text" = "Families";
+
+/* Class = "UILabel"; text = "City:"; ObjectID = "wrj-G8-Tsl"; */
+"wrj-G8-Tsl.text" = "City:";
+
+/* Class = "UIButton"; normalTitle = "Trace Location"; ObjectID = "x1h-MZ-rgn"; */
+"x1h-MZ-rgn.normalTitle" = "Trace Location";
+
+/* Class = "UILabel"; text = "name:"; ObjectID = "x3C-Ax-9jS"; */
+"x3C-Ax-9jS.text" = "name:";
+
+/* Class = "UIButton"; normalTitle = "Request for event manager account"; ObjectID = "xO2-5W-Lv6"; */
+"xO2-5W-Lv6.normalTitle" = "Request for event manager account";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "xgr-sN-MgG"; */
+"xgr-sN-MgG.text" = "Date";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "xoq-IR-35P"; */
+"xoq-IR-35P.title" = "Map";
+
+/* Class = "UIButton"; normalTitle = "Science"; ObjectID = "xz1-EV-JSJ"; */
+"xz1-EV-JSJ.normalTitle" = "Science";
+
+/* Class = "UIButton"; normalTitle = "Forgot your password?"; ObjectID = "ySy-JK-s3i"; */
+"ySy-JK-s3i.normalTitle" = "Forgot your password?";
+
+/* Class = "UILabel"; text = "Or you can send a direct message:"; ObjectID = "yxp-lY-SkA"; */
+"yxp-lY-SkA.text" = "Or you can send a direct message:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "z49-Nc-ksJ"; */
+"z49-Nc-ksJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Event name:"; ObjectID = "z7s-pO-kUa"; */
+"z7s-pO-kUa.text" = "Event name:";
+
+/* Class = "UITextField"; placeholder = "Confirm Password..."; ObjectID = "zKi-0F-hZw"; */
+"zKi-0F-hZw.placeholder" = "Confirm Password...";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "zSs-AW-xVV"; */
+"zSs-AW-xVV.title" = "Title";
+
+/* Class = "UIViewController"; title = "ViewEvent"; ObjectID = "zZz-c8-8Py"; */
+"zZz-c8-8Py.title" = "ViewEvent";
+
+/* Class = "UIButton"; normalTitle = "Contact us"; ObjectID = "zem-YY-0TB"; */
+"zem-YY-0TB.normalTitle" = "Contact us";
+
+/* Class = "UILabel"; text = "Org address:"; ObjectID = "zjr-Vi-HGC"; */
+"zjr-Vi-HGC.text" = "Org address:";
+
+/* Class = "UILabel"; text = "Event manager name"; ObjectID = "zoQ-sM-Lxi"; */
+"zoQ-sM-Lxi.text" = "Event manager name";

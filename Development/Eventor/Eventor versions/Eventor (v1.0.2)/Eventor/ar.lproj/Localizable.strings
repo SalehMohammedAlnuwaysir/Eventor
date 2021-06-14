@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Eventor
+
+  Created by Saleh on 06/10/1440 AH.
+  Copyright © 1440 Eventor. All rights reserved.
+*/
+
+
+"SignIn" = "تسجيل دخول" ;
+"SignUp" = "إنشاء حساب" ;
+"RequestEMAccount" = "الحصول على حساب تنظيم الفعاليات" ;
